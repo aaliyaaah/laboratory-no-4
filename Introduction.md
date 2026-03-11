@@ -1,4 +1,4 @@
-# laboratory-no-4
+# Laboratory no 4
 **Overview:**
 Laboratory No. 4 introduces the antenna and waveguide trainer, focusing on the basic concepts of antennas and waveguides used in wireless communication. The activity discusses different antenna types, such as Yagi antennas with varying elements, and explains how waveguides guide electromagnetic waves.
 
