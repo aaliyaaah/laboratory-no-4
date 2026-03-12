@@ -99,97 +99,61 @@ Antennas similar to those used in the experiment are widely used in modern commu
 Understanding the operation of these antennas is essential in designing efficient communication systems.
 
 ## Documentation
+<h2 align="center">Antenna Setup Documentation</h2>
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/bb446e3e-25e1-4fcf-a610-8d62b98cc8f8" width="700">
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/5ff5f4b4-b929-4ab2-8747-04366c216c8b" width="350"><br>
+Figure 4.1
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/d20733c7-8a49-4e5f-b6a8-67ddd8824050" width="350"><br>
+Figure 4.2
+</td>
+</tr>
 
-**Figure 4.1.** Yagi-Uda antenna mounted on the receiving mast connected to the measurement setup.
-</div>
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/7d181ce8-786f-47a3-b0bf-b2de2f1f65cf" width="350"><br>
+Figure 4.3
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/6ae0f937-0103-4483-b226-6c1f4edddd91" width="350"><br>
+Figure 4.4
+</td>
+</tr>
 
-<br>
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/41eab15b-650b-4385-8ffb-52e29476a44a" width="350"><br>
+Figure 4.5
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/4cdaeeb3-994e-4695-91e0-9a64663ba3b7" width="350"><br>
+Figure 4.6
+</td>
+</tr>
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/88a5f831-8721-4462-8d60-cd7ef64d07f1" width="700">
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/b478e7f1-2e95-48d5-878f-aad5531ff08f" width="350"><br>
+Figure 4.7
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/2a8be1b6-a04d-4977-92a2-e7a1b14b2b0c" width="350"><br>
+Figure 4.8
+</td>
+</tr>
 
-**Figure 4.2.** Close-up view of the Yagi antenna showing the driven element, reflector, and directors.
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/1f583836-87c5-4303-ad1a-5ce84b1bde5f" width="700">
-
-**Figure 4.3.** Detailed view of the antenna element structure and mounting on the boom.
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/f37e2ef4-7db7-45b9-887d-8f0eac44fbfe" width="700">
-
-**Figure 4.4.** RF detector connected to the receiving mast used to measure the received signal strength.
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/866128ef-95de-41be-a6cb-c23ea24aad26" width="700">
-
-**Figure 4.5.** Various antenna elements and configurations included in the antenna trainer kit.
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/c0405e8a-9f6b-4886-a989-4827a6afc730" width="700">
-
-**Figure 4.6.** Antenna trainer system used as the RF signal source in the experiment.
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/906995de-bee3-424a-8e52-89fbd8b5772d" width="700">
-
-**Figure 4.7.** Complete experimental setup showing the antenna trainer, antenna elements, and receiving mast.
-</div>
-
-## Complete Experimental Setup
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/474db0c2-ebcf-4896-908f-f04bafb3455f" width="700">
-
-**Figure 4.8.** Initial setup of the antenna trainer system with the receiving mast and oscilloscope used to observe the received signal.
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/3a810f3d-627d-46d3-8247-d45d4f95ebac" width="700">
-
-**Figure 4.9.** Complete antenna measurement setup showing the receiving antenna connected to the RF detector and oscilloscope.
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/afad2ec3-767b-41b3-91d7-9413a06855d2" width="700">
-
-**Figure 4.10.** Antenna trainer equipment used to generate the RF signal for the antenna experiments.
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/f7110608-d345-48c9-b964-d17e8308553d" width="700">
-
-**Figure 4.11.** RF detector module connected between the antenna and oscilloscope to measure received signal strength.
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/c24c0f4b-2457-4162-9ab8-0b45ac04fe18" width="700">
-
-**Figure 4.12.** Full laboratory setup including antenna trainer modules, antenna elements, and measurement instruments.
-</div>
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/2cc7f624-afdb-419c-a222-8eadf1f29f1c" width="350"><br>
+Figure 4.9
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/a464865c-34bc-451a-a7cf-05dc9a0db0d4" width="350"><br>
+Figure 4.10
+</td>
+</tr>
+</table>
